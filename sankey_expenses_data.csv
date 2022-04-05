@@ -1,7 +1,8 @@
-from,to,value
+node,next_node,value
 expenses,purchases,550
 expenses,events,500
 expenses,bills,3000
+expenses,salary,3200
 purchases,software,200
 purchases,hardware,300
 purchases,consumables,50
