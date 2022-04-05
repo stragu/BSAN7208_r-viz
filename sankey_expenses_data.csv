@@ -1,0 +1,17 @@
+from,to,value
+expenses,purchases,550
+expenses,events,500
+expenses,bills,3000
+purchases,software,200
+purchases,hardware,300
+purchases,consumables,50
+events,stall,50
+events,conference,450
+bills,rent,2000
+bills,electricity,500
+bills,water,200
+bills,internet,100
+bills,phone,50
+bills,miscellaneous,150
+rent,office,1850
+rent,storage,150
